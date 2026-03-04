@@ -34,6 +34,8 @@ AUV, otonom olarak hareket eden bir su altı aracıdır. Bu bölümde, AUV için
 - **Su Altı Navigasyon**: Su altı ortamında güvenli ve etkili navigasyon.
 - **Sensör Entegrasyonu**: Çeşitli sensörler kullanarak çevresel veri toplama ve işleme.
 
+  
+
 Daha fazla bilgi için [AUV Belgelerine](docs/auv/overview.md) göz atabilirsiniz.
 
 ## Kurulum
@@ -67,9 +69,12 @@ Daha fazla bilgi için ROV Belgelerine ve AUV Belgelerine göz atabilirsiniz.
 
 ### Katkıda Bulunma
 
+
+
 Katkıda bulunmak isterseniz, lütfen katkı yönergelerimizi okuyun ve bir pull request gönderin.
 
 ### Lisans
+
 
 Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasına bakın.
 
